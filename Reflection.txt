@@ -1,0 +1,5 @@
+//What was your primary contribution to the project? I did this project individually so I contributed everything to the project.
+//What was the most challenging technical problem your team encountered? My LED light would not light up even after solving all the errors in my code. So, I asked for help and had to replace the LED because it was faulty.
+//How did your team use testing or debugging to solve a problem? Debugging helped me find the errors in my code. It wouldn't compile correctly at first but then I was able to fix the isues.
+//Which skills from CSE 1106 were mos useful? I would say learning how to set up and use the raspberry pi, GitHub, and how to use the terminal.
+//What would you improve if you had more time? I don't think I need to improve on anything but I would go back and add comments to my code.
