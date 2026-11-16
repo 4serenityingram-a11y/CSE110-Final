@@ -21,7 +21,6 @@ int main(int argc, char* argv[])
 	return 1;	
 		}
 	
-	// gpioSetMode(17,PI_OUTPUT);
 	gpioWrite(PIN, 0);
 	
 	double min_temp = 68.0;
